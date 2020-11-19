@@ -10,6 +10,7 @@ buildscript {
         okhttp3_log_interceptor = OKHTTP3LOGINTERCEPTOR_VERSION
         architecture_components = ARHITECTURECOMPONENTS_VERSION
         mockito_version = MOCKITO_VERSION
+        dagger_version = DAGGER_VERSION
     }
     repositories {
         google()
